@@ -81,6 +81,8 @@ static final c9586A8=
 
 static final cFFFFFF=
   GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 15.sp, fontWeight: FontWeight.w600);
+static final cFFFFFFw700=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 15.sp, fontWeight: FontWeight.w700);
 
 static final c2D0C57Boston=
   GoogleFonts.poppins(color: AppColors.c2D0C57, fontSize: 30.sp, fontWeight: FontWeight.w700);
@@ -120,5 +122,112 @@ static final c9586A8poppins=
 
 static final text01cFFF2C2=
   GoogleFonts.poppins(color: AppColors.cFFF2C2, fontSize: 12.sp, fontWeight: FontWeight.w700);
+
+static final c000000=
+  GoogleFonts.poppins(color: AppColors.c000000, fontSize: 12.sp, fontWeight: FontWeight.w500);
+
+static final c00000022=
+  GoogleFonts.poppins(color: AppColors.c000000, fontSize: 22.sp, fontWeight: FontWeight.w700);
+
+static final c00000015=
+  GoogleFonts.poppins(color: AppColors.c000000, fontSize: 15.sp, fontWeight: FontWeight.w700);
+
+static final c00000013=
+  GoogleFonts.poppins(color: AppColors.c000000, fontSize: 13.sp, fontWeight: FontWeight.w400);
+
+static final c00000011=
+  GoogleFonts.poppins(color: AppColors.c000000, fontSize: 11.sp, fontWeight: FontWeight.w400);
+
+static final c00000012=
+  GoogleFonts.poppins(color: AppColors.c000000, fontSize: 12.sp, fontWeight: FontWeight.w700);
+
+static final cFA6400=
+  GoogleFonts.poppins(color: AppColors.cFA6400, fontSize: 10.sp, fontWeight: FontWeight.w500);
+
+static final cFA6400w700=
+  GoogleFonts.poppins(color: AppColors.cFA6400, fontSize: 8.sp, fontWeight: FontWeight.w700);
+
+static final c6D7278=
+  GoogleFonts.poppins(color: AppColors.c6D7278, fontSize: 10.sp, fontWeight: FontWeight.w400);
+
+static final  cFFFFFF12=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 12.sp, fontWeight: FontWeight.w400);
+
+static final  cFFFFFF11=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 11.sp, fontWeight: FontWeight.w400);
+
+static final  cFFFFFF13=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 13.sp, fontWeight: FontWeight.w400);
+
+static final  cFFFFFF40=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 40.sp, fontWeight: FontWeight.w700);
+
+static final  cFFFFFF8=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 8.sp, fontWeight: FontWeight.w100);
+
+static final  cFFFFFF21=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 21.sp, fontWeight: FontWeight.w900);
+
+static final  cFFFFFF18=
+  GoogleFonts.poppins(color: AppColors.cFFFFFF, fontSize: 18.sp, fontWeight: FontWeight.w900);
+
+static final   cF7B500=
+  GoogleFonts.poppins(color: AppColors. cF7B500, fontSize: 13.sp, fontWeight: FontWeight.w400);
+
+static final   cE02020=
+  GoogleFonts.poppins(color: AppColors. cE02020, fontSize: 13.sp, fontWeight: FontWeight.w400);
+
+static final   c6DD400=
+  GoogleFonts.poppins(color: AppColors. c6DD400, fontSize: 10.sp, fontWeight: FontWeight.w400);
+
+static final   c6D7278poppins=
+  GoogleFonts.poppins(color: AppColors. c6D7278, fontSize: 13.sp, fontWeight: FontWeight.w400);
+
+static final   cE02020w400=
+  GoogleFonts.poppins(color: AppColors. cE02020, fontSize: 13.sp, fontWeight: FontWeight.w400);
+
+static final   c171716=
+  GoogleFonts.poppins(color: AppColors. c171716, fontSize: 42.sp, fontWeight: FontWeight.w700);
+
+static final   c171716poppins=
+  GoogleFonts.poppins(color: AppColors. c171716, fontSize: 22.sp, fontWeight: FontWeight.w700);
+static final   c00000034=
+  GoogleFonts.poppins(color: AppColors. c000000, fontSize: 34.sp, fontWeight: FontWeight.w700);
+static final   c00000015w400=
+  GoogleFonts.poppins(color: AppColors. c000000, fontSize: 15.sp, fontWeight: FontWeight.w400);
+
+static final   c6D7278w400=
+  GoogleFonts.poppins(color: AppColors. c6D7278, fontSize: 12.sp, fontWeight: FontWeight.w400);
+
+static final   c1098FEhaveyouread=
+  GoogleFonts.poppins(color: AppColors. c1098FE, fontSize: 9.sp, fontWeight: FontWeight.w100);
+
+static final   headlinec6D7278=
+  GoogleFonts.poppins(color: AppColors. c6D7278, fontSize: 4.sp, fontWeight: FontWeight.w400);
+static final   headlinec6DD400=
+  GoogleFonts.poppins(color: AppColors. c6DD400, fontSize: 10.sp, fontWeight: FontWeight.w400);
+static final   headlinec000000=
+  GoogleFonts.poppins(color: AppColors. c000000, fontSize: 11.sp, fontWeight: FontWeight.w400);
+
+static final   headlinec000000w700=
+  GoogleFonts.poppins(color: AppColors. c000000, fontSize: 12.sp, fontWeight: FontWeight.w700);
+
+static final   headlinec000000w70018=
+  GoogleFonts.poppins(color: AppColors. c000000, fontSize: 18.sp, fontWeight: FontWeight.w700);
+static final   headlinec000000w400=
+  GoogleFonts.poppins(color: AppColors. c000000, fontSize: 12.sp, fontWeight: FontWeight.w400);
+
+static final   cFFFFFFw400=
+  GoogleFonts.poppins(color: AppColors. cFFFFFF, fontSize: 12.sp, fontWeight: FontWeight.w400);
+static final    headlinec6DD400w400=
+  GoogleFonts.poppins(color: AppColors.  c6DD400, fontSize: 10.sp, fontWeight: FontWeight.w400);
+
+static final    cFA6400w500=
+  GoogleFonts.poppins(color: AppColors.  cFA6400, fontSize: 10.sp, fontWeight: FontWeight.w500);
+
+static final    cFFFFFFw100=
+  GoogleFonts.poppins(color: AppColors.  cFFFFFF, fontSize: 11.sp, fontWeight: FontWeight.w100);
+static final    cFFFFFFw700poppins=
+  GoogleFonts.poppins(color: AppColors.  cFFFFFF, fontSize: 18.sp, fontWeight: FontWeight.w700);
 
 }

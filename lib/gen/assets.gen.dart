@@ -12,6 +12,9 @@ import 'package:flutter/widgets.dart';
 class $AssetsIconsGen {
   const $AssetsIconsGen();
 
+  /// File path: assets/icons/555.png
+  AssetGenImage get a555 => const AssetGenImage('assets/icons/555.png');
+
   /// File path: assets/icons/Checkbox.png
   AssetGenImage get checkbox =>
       const AssetGenImage('assets/icons/Checkbox.png');
@@ -19,8 +22,14 @@ class $AssetsIconsGen {
   /// File path: assets/icons/Home.png
   AssetGenImage get home => const AssetGenImage('assets/icons/Home.png');
 
+  /// File path: assets/icons/Oval (1).png
+  AssetGenImage get oval1 => const AssetGenImage('assets/icons/Oval (1).png');
+
   /// File path: assets/icons/Profile.png
   AssetGenImage get profile => const AssetGenImage('assets/icons/Profile.png');
+
+  /// File path: assets/icons/Shape (1).png
+  AssetGenImage get shape1 => const AssetGenImage('assets/icons/Shape (1).png');
 
   /// File path: assets/icons/a22.png
   AssetGenImage get a22 => const AssetGenImage('assets/icons/a22.png');
@@ -32,14 +41,39 @@ class $AssetsIconsGen {
   AssetGenImage get accountNotification =>
       const AssetGenImage('assets/icons/account_notification.png');
 
+  /// File path: assets/icons/activefavare.svg
+  String get activefavare => 'assets/icons/activefavare.svg';
+
+  /// File path: assets/icons/activehome.svg
+  String get activehome => 'assets/icons/activehome.svg';
+
+  /// File path: assets/icons/activeicon-S.png
+  AssetGenImage get activeiconS =>
+      const AssetGenImage('assets/icons/activeicon-S.png');
+
+  /// File path: assets/icons/activeractagle.svg
+  String get activeractagle => 'assets/icons/activeractagle.svg';
+
+  /// File path: assets/icons/activesearch.svg
+  String get activesearch => 'assets/icons/activesearch.svg';
+
   /// File path: assets/icons/arrw8.png
   AssetGenImage get arrw8 => const AssetGenImage('assets/icons/arrw8.png');
 
   /// File path: assets/icons/arrw@@.png
   AssetGenImage get arrw => const AssetGenImage('assets/icons/arrw@@.png');
 
+  /// File path: assets/icons/back.png
+  AssetGenImage get back => const AssetGenImage('assets/icons/back.png');
+
+  /// File path: assets/icons/block (2).png
+  AssetGenImage get block2 => const AssetGenImage('assets/icons/block (2).png');
+
   /// File path: assets/icons/block.png
   AssetGenImage get block => const AssetGenImage('assets/icons/block.png');
+
+  /// File path: assets/icons/camexl.png
+  AssetGenImage get camexl => const AssetGenImage('assets/icons/camexl.png');
 
   /// File path: assets/icons/copy.png
   AssetGenImage get copy => const AssetGenImage('assets/icons/copy.png');
@@ -49,6 +83,10 @@ class $AssetsIconsGen {
 
   /// File path: assets/icons/details_calender.svg
   String get detailsCalender => 'assets/icons/details_calender.svg';
+
+  /// File path: assets/icons/disablehome.png
+  AssetGenImage get disablehome =>
+      const AssetGenImage('assets/icons/disablehome.png');
 
   /// File path: assets/icons/discover_filled.svg
   String get discoverFilled => 'assets/icons/discover_filled.svg';
@@ -71,6 +109,9 @@ class $AssetsIconsGen {
   /// File path: assets/icons/event_vanue_logo.svg
   String get eventVanueLogo => 'assets/icons/event_vanue_logo.svg';
 
+  /// File path: assets/icons/favaret.svg
+  String get favaret => 'assets/icons/favaret.svg';
+
   /// File path: assets/icons/filter_icon.svg
   String get filterIcon => 'assets/icons/filter_icon.svg';
 
@@ -82,6 +123,9 @@ class $AssetsIconsGen {
 
   /// File path: assets/icons/home_unfilled.svg
   String get homeUnfilled => 'assets/icons/home_unfilled.svg';
+
+  /// File path: assets/icons/inbox.png
+  AssetGenImage get inbox => const AssetGenImage('assets/icons/inbox.png');
 
   /// File path: assets/icons/instagram_icon.svg
   String get instagramIcon => 'assets/icons/instagram_icon.svg';
@@ -101,11 +145,17 @@ class $AssetsIconsGen {
   AssetGenImage get knotification =>
       const AssetGenImage('assets/icons/knotification.png');
 
+  /// File path: assets/icons/limited.png
+  AssetGenImage get limited => const AssetGenImage('assets/icons/limited.png');
+
   /// File path: assets/icons/location_icon.svg
   String get locationIcon => 'assets/icons/location_icon.svg';
 
   /// File path: assets/icons/main_logo.svg
   String get mainLogo => 'assets/icons/main_logo.svg';
+
+  /// File path: assets/icons/map.png
+  AssetGenImage get map => const AssetGenImage('assets/icons/map.png');
 
   /// File path: assets/icons/no_event_icon.svg
   String get noEventIcon => 'assets/icons/no_event_icon.svg';
@@ -133,17 +183,30 @@ class $AssetsIconsGen {
   /// File path: assets/icons/profile_filled.svg
   String get profileFilled => 'assets/icons/profile_filled.svg';
 
+  /// File path: assets/icons/quin.png
+  AssetGenImage get quin => const AssetGenImage('assets/icons/quin.png');
+
   /// File path: assets/icons/search.png
   AssetGenImage get search => const AssetGenImage('assets/icons/search.png');
 
   /// File path: assets/icons/search2.png
   AssetGenImage get search2 => const AssetGenImage('assets/icons/search2.png');
 
+  /// File path: assets/icons/shap.png
+  AssetGenImage get shap => const AssetGenImage('assets/icons/shap.png');
+
   /// File path: assets/icons/shoping
   String get shoping => 'assets/icons/shoping';
 
+  /// File path: assets/icons/signeture.png
+  AssetGenImage get signeture =>
+      const AssetGenImage('assets/icons/signeture.png');
+
   /// File path: assets/icons/sound.png
   AssetGenImage get sound => const AssetGenImage('assets/icons/sound.png');
+
+  /// File path: assets/icons/svgactivhome.svg
+  String get svgactivhome => 'assets/icons/svgactivhome.svg';
 
   /// File path: assets/icons/time24.png
   AssetGenImage get time24 => const AssetGenImage('assets/icons/time24.png');
@@ -168,18 +231,30 @@ class $AssetsIconsGen {
 
   /// List of all assets
   List<dynamic> get values => [
+        a555,
         checkbox,
         home,
+        oval1,
         profile,
+        shape1,
         a22,
         aboutUs,
         accountNotification,
+        activefavare,
+        activehome,
+        activeiconS,
+        activeractagle,
+        activesearch,
         arrw8,
         arrw,
+        back,
+        block2,
         block,
+        camexl,
         copy,
         cross,
         detailsCalender,
+        disablehome,
         discoverFilled,
         discoverOutline,
         dropDownIcon,
@@ -187,17 +262,21 @@ class $AssetsIconsGen {
         eventLocationIcon,
         eventOutline,
         eventVanueLogo,
+        favaret,
         filterIcon,
         fram20,
         homeFilled,
         homeUnfilled,
+        inbox,
         instagramIcon,
         kbacarrw,
         kfram,
         khushiNotification,
         knotification,
+        limited,
         locationIcon,
         mainLogo,
+        map,
         noEventIcon,
         notification,
         otherball,
@@ -206,10 +285,14 @@ class $AssetsIconsGen {
         pen,
         picturk,
         profileFilled,
+        quin,
         search,
         search2,
+        shap,
         shoping,
+        signeture,
         sound,
+        svgactivhome,
         time24,
         time25,
         time2k,
@@ -223,8 +306,34 @@ class $AssetsIconsGen {
 class $AssetsImagesGen {
   const $AssetsImagesGen();
 
+  /// File path: assets/images/Camoxval.png
+  AssetGenImage get camoxval =>
+      const AssetGenImage('assets/images/Camoxval.png');
+
   /// File path: assets/images/Drone.png
   AssetGenImage get drone => const AssetGenImage('assets/images/Drone.png');
+
+  /// File path: assets/images/Group 3.png
+  AssetGenImage get group3 => const AssetGenImage('assets/images/Group 3.png');
+
+  /// File path: assets/images/Onboarding Copy (1).png
+  AssetGenImage get onboardingCopy1 =>
+      const AssetGenImage('assets/images/Onboarding Copy (1).png');
+
+  /// File path: assets/images/Onboarding Copy.png
+  AssetGenImage get onboardingCopy =>
+      const AssetGenImage('assets/images/Onboarding Copy.png');
+
+  /// File path: assets/images/SAMOHVAL (1).png
+  AssetGenImage get samohval1 =>
+      const AssetGenImage('assets/images/SAMOHVAL (1).png');
+
+  /// File path: assets/images/SAMOHVAL.png
+  AssetGenImage get samohval =>
+      const AssetGenImage('assets/images/SAMOHVAL.png');
+
+  /// File path: assets/images/app.png
+  AssetGenImage get app => const AssetGenImage('assets/images/app.png');
 
   /// File path: assets/images/arrwbacnew.png
   AssetGenImage get arrwbacnew =>
@@ -243,6 +352,13 @@ class $AssetsImagesGen {
   /// File path: assets/images/bacroundimage.png
   AssetGenImage get bacroundimage =>
       const AssetGenImage('assets/images/bacroundimage.png');
+
+  /// File path: assets/images/bacspace.png
+  AssetGenImage get bacspace =>
+      const AssetGenImage('assets/images/bacspace.png');
+
+  /// File path: assets/images/bascr.png
+  AssetGenImage get bascr => const AssetGenImage('assets/images/bascr.png');
 
   /// File path: assets/images/big.png
   AssetGenImage get big => const AssetGenImage('assets/images/big.png');
@@ -266,8 +382,17 @@ class $AssetsImagesGen {
   /// File path: assets/images/bread.png
   AssetGenImage get bread => const AssetGenImage('assets/images/bread.png');
 
+  /// File path: assets/images/bsc.png
+  AssetGenImage get bsc => const AssetGenImage('assets/images/bsc.png');
+
+  /// File path: assets/images/cafe.png
+  AssetGenImage get cafe => const AssetGenImage('assets/images/cafe.png');
+
   /// File path: assets/images/camera.png
   AssetGenImage get camera => const AssetGenImage('assets/images/camera.png');
+
+  /// File path: assets/images/camixl.png
+  AssetGenImage get camixl => const AssetGenImage('assets/images/camixl.png');
 
   /// File path: assets/images/check.png
   AssetGenImage get check => const AssetGenImage('assets/images/check.png');
@@ -278,12 +403,22 @@ class $AssetsImagesGen {
   /// File path: assets/images/ciecle.zip
   String get ciecle => 'assets/images/ciecle.zip';
 
+  /// File path: assets/images/circle (2).png
+  AssetGenImage get circle2 =>
+      const AssetGenImage('assets/images/circle (2).png');
+
   /// File path: assets/images/circle.png
   AssetGenImage get circle => const AssetGenImage('assets/images/circle.png');
 
   /// File path: assets/images/circlered.png
   AssetGenImage get circlered =>
       const AssetGenImage('assets/images/circlered.png');
+
+  /// File path: assets/images/clear.png
+  AssetGenImage get clear => const AssetGenImage('assets/images/clear.png');
+
+  /// File path: assets/images/cofypic.png
+  AssetGenImage get cofypic => const AssetGenImage('assets/images/cofypic.png');
 
   /// File path: assets/images/cosmetics.jpg
   AssetGenImage get cosmetics =>
@@ -307,12 +442,26 @@ class $AssetsImagesGen {
   /// File path: assets/images/croxpic.png
   AssetGenImage get croxpic => const AssetGenImage('assets/images/croxpic.png');
 
+  /// File path: assets/images/cup.png
+  AssetGenImage get cup => const AssetGenImage('assets/images/cup.png');
+
   /// File path: assets/images/decoration.png
   AssetGenImage get decoration =>
       const AssetGenImage('assets/images/decoration.png');
 
   /// File path: assets/images/dolpic.png
   AssetGenImage get dolpic => const AssetGenImage('assets/images/dolpic.png');
+
+  /// File path: assets/images/easten.png
+  AssetGenImage get easten => const AssetGenImage('assets/images/easten.png');
+
+  /// File path: assets/images/education (1).png
+  AssetGenImage get education1 =>
+      const AssetGenImage('assets/images/education (1).png');
+
+  /// File path: assets/images/education.png
+  AssetGenImage get education =>
+      const AssetGenImage('assets/images/education.png');
 
   /// File path: assets/images/error_placeholder.png
   AssetGenImage get errorPlaceholder =>
@@ -326,24 +475,54 @@ class $AssetsImagesGen {
   AssetGenImage get eventImage =>
       const AssetGenImage('assets/images/event_image.png');
 
+  /// File path: assets/images/favorite.png
+  AssetGenImage get favorite =>
+      const AssetGenImage('assets/images/favorite.png');
+
   /// File path: assets/images/food.webp
   AssetGenImage get food => const AssetGenImage('assets/images/food.webp');
 
   /// File path: assets/images/fullpic.png
   AssetGenImage get fullpic => const AssetGenImage('assets/images/fullpic.png');
 
+  /// File path: assets/images/future.png
+  AssetGenImage get future => const AssetGenImage('assets/images/future.png');
+
   /// File path: assets/images/gari.png
   AssetGenImage get gari => const AssetGenImage('assets/images/gari.png');
+
+  /// File path: assets/images/gems.png
+  AssetGenImage get gems => const AssetGenImage('assets/images/gems.png');
+
+  /// File path: assets/images/ghariimage.png
+  AssetGenImage get ghariimage =>
+      const AssetGenImage('assets/images/ghariimage.png');
+
+  /// File path: assets/images/ghrai.png
+  AssetGenImage get ghrai => const AssetGenImage('assets/images/ghrai.png');
 
   /// File path: assets/images/girlpic.png
   AssetGenImage get girlpic => const AssetGenImage('assets/images/girlpic.png');
 
+  /// File path: assets/images/git.png
+  AssetGenImage get git => const AssetGenImage('assets/images/git.png');
+
   /// File path: assets/images/goalpic.png
   AssetGenImage get goalpic => const AssetGenImage('assets/images/goalpic.png');
+
+  /// File path: assets/images/green (2).png
+  AssetGenImage get green2 =>
+      const AssetGenImage('assets/images/green (2).png');
 
   /// File path: assets/images/grennsonji.png
   AssetGenImage get grennsonji =>
       const AssetGenImage('assets/images/grennsonji.png');
+
+  /// File path: assets/images/grypic.png
+  AssetGenImage get grypic => const AssetGenImage('assets/images/grypic.png');
+
+  /// File path: assets/images/hafpic.png
+  AssetGenImage get hafpic => const AssetGenImage('assets/images/hafpic.png');
 
   /// File path: assets/images/handprofile3.png
   AssetGenImage get handprofile3 =>
@@ -372,6 +551,9 @@ class $AssetsImagesGen {
   /// File path: assets/images/kek33.png
   AssetGenImage get kek33 => const AssetGenImage('assets/images/kek33.png');
 
+  /// File path: assets/images/khusi.png
+  AssetGenImage get khusi => const AssetGenImage('assets/images/khusi.png');
+
   /// File path: assets/images/kit
   String get kit => 'assets/images/kit';
 
@@ -394,6 +576,9 @@ class $AssetsImagesGen {
   /// File path: assets/images/love
   String get love => 'assets/images/love';
 
+  /// File path: assets/images/loves.png
+  AssetGenImage get loves => const AssetGenImage('assets/images/loves.png');
+
   /// File path: assets/images/madleprofile1.png
   AssetGenImage get madleprofile1 =>
       const AssetGenImage('assets/images/madleprofile1.png');
@@ -411,12 +596,18 @@ class $AssetsImagesGen {
   /// File path: assets/images/menpic.png
   AssetGenImage get menpic => const AssetGenImage('assets/images/menpic.png');
 
+  /// File path: assets/images/menu.png
+  AssetGenImage get menu => const AssetGenImage('assets/images/menu.png');
+
   /// File path: assets/images/message1.png
   AssetGenImage get message1 =>
       const AssetGenImage('assets/images/message1.png');
 
   /// File path: assets/images/no_account.svg
   String get noAccount => 'assets/images/no_account.svg';
+
+  /// File path: assets/images/number1.png
+  AssetGenImage get number1 => const AssetGenImage('assets/images/number1.png');
 
   /// File path: assets/images/onboardin1.png
   AssetGenImage get onboardin1 =>
@@ -445,11 +636,21 @@ class $AssetsImagesGen {
   /// File path: assets/images/onboarding_arrow.svg
   String get onboardingArrow => 'assets/images/onboarding_arrow.svg';
 
+  /// File path: assets/images/onbordingscreen.png
+  AssetGenImage get onbordingscreen =>
+      const AssetGenImage('assets/images/onbordingscreen.png');
+
   /// File path: assets/images/orange.jpg
   AssetGenImage get orange => const AssetGenImage('assets/images/orange.jpg');
 
   /// File path: assets/images/orange2.png
   AssetGenImage get orange2 => const AssetGenImage('assets/images/orange2.png');
+
+  /// File path: assets/images/oval.png
+  AssetGenImage get oval => const AssetGenImage('assets/images/oval.png');
+
+  /// File path: assets/images/oval2.png
+  AssetGenImage get oval2 => const AssetGenImage('assets/images/oval2.png');
 
   /// File path: assets/images/pakhicircle.png
   AssetGenImage get pakhicircle =>
@@ -500,6 +701,9 @@ class $AssetsImagesGen {
   AssetGenImage get picture9 =>
       const AssetGenImage('assets/images/picture9.png');
 
+  /// File path: assets/images/plen.png
+  AssetGenImage get plen => const AssetGenImage('assets/images/plen.png');
+
   /// File path: assets/images/pluse.png
   AssetGenImage get pluse => const AssetGenImage('assets/images/pluse.png');
 
@@ -515,11 +719,39 @@ class $AssetsImagesGen {
   AssetGenImage get profilek =>
       const AssetGenImage('assets/images/profilek.png');
 
+  /// File path: assets/images/ratingselected.png
+  AssetGenImage get ratingselected =>
+      const AssetGenImage('assets/images/ratingselected.png');
+
+  /// File path: assets/images/rectangle.png
+  AssetGenImage get rectangle =>
+      const AssetGenImage('assets/images/rectangle.png');
+
+  /// File path: assets/images/regular.png
+  AssetGenImage get regular => const AssetGenImage('assets/images/regular.png');
+
+  /// File path: assets/images/roket.png
+  AssetGenImage get roket => const AssetGenImage('assets/images/roket.png');
+
+  /// File path: assets/images/roket1.png
+  AssetGenImage get roket1 => const AssetGenImage('assets/images/roket1.png');
+
   /// File path: assets/images/sadwbox.png
   AssetGenImage get sadwbox => const AssetGenImage('assets/images/sadwbox.png');
 
+  /// File path: assets/images/samo.png
+  AssetGenImage get samo => const AssetGenImage('assets/images/samo.png');
+
   /// File path: assets/images/searc5.zip
   String get searc5 => 'assets/images/searc5.zip';
+
+  /// File path: assets/images/searchselected.png
+  AssetGenImage get searchselected =>
+      const AssetGenImage('assets/images/searchselected.png');
+
+  /// File path: assets/images/selecthome.png
+  AssetGenImage get selecthome =>
+      const AssetGenImage('assets/images/selecthome.png');
 
   /// File path: assets/images/shooping
   String get shooping => 'assets/images/shooping';
@@ -538,6 +770,9 @@ class $AssetsImagesGen {
   AssetGenImage get signetureone =>
       const AssetGenImage('assets/images/signetureone.png');
 
+  /// File path: assets/images/signin.png
+  AssetGenImage get signin => const AssetGenImage('assets/images/signin.png');
+
   /// File path: assets/images/sobjigreen.png
   AssetGenImage get sobjigreen =>
       const AssetGenImage('assets/images/sobjigreen.png');
@@ -547,6 +782,9 @@ class $AssetsImagesGen {
 
   /// File path: assets/images/star.png
   AssetGenImage get star => const AssetGenImage('assets/images/star.png');
+
+  /// File path: assets/images/start.png
+  AssetGenImage get start => const AssetGenImage('assets/images/start.png');
 
   /// File path: assets/images/sweets.webp
   AssetGenImage get sweets => const AssetGenImage('assets/images/sweets.webp');
@@ -564,6 +802,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/time1
   String get time1 => 'assets/images/time1';
 
+  /// File path: assets/images/towcolor.png
+  AssetGenImage get towcolor =>
+      const AssetGenImage('assets/images/towcolor.png');
+
   /// File path: assets/images/treegren.png
   AssetGenImage get treegren =>
       const AssetGenImage('assets/images/treegren.png');
@@ -571,6 +813,10 @@ class $AssetsImagesGen {
   /// File path: assets/images/treegren1.png
   AssetGenImage get treegren1 =>
       const AssetGenImage('assets/images/treegren1.png');
+
+  /// File path: assets/images/unselect home.png
+  AssetGenImage get unselectHome =>
+      const AssetGenImage('assets/images/unselect home.png');
 
   /// File path: assets/images/vagitablegreen.webp
   AssetGenImage get vagitablegreen =>
@@ -586,12 +832,21 @@ class $AssetsImagesGen {
 
   /// List of all assets
   List<dynamic> get values => [
+        camoxval,
         drone,
+        group3,
+        onboardingCopy1,
+        onboardingCopy,
+        samohval1,
+        samohval,
+        app,
         arrwbacnew,
         arrwprofile2,
         arw,
         authBg,
         bacroundimage,
+        bacspace,
+        bascr,
         big,
         bike,
         block,
@@ -599,29 +854,48 @@ class $AssetsImagesGen {
         box99,
         boximage,
         bread,
+        bsc,
+        cafe,
         camera,
+        camixl,
         check,
         cicle,
         ciecle,
+        circle2,
         circle,
         circlered,
+        clear,
+        cofypic,
         cosmetics,
         creditCard,
         cress,
         crosspic,
         crossprofilew4,
         croxpic,
+        cup,
         decoration,
         dolpic,
+        easten,
+        education1,
+        education,
         errorPlaceholder,
         errorpic,
         eventImage,
+        favorite,
         food,
         fullpic,
+        future,
         gari,
+        gems,
+        ghariimage,
+        ghrai,
         girlpic,
+        git,
         goalpic,
+        green2,
         grennsonji,
+        grypic,
+        hafpic,
         handprofile3,
         hintbox,
         home,
@@ -630,6 +904,7 @@ class $AssetsImagesGen {
         image17,
         image,
         kek33,
+        khusi,
         kit,
         leanceicon,
         lebu,
@@ -637,13 +912,16 @@ class $AssetsImagesGen {
         logo1,
         logo33,
         love,
+        loves,
         madleprofile1,
         manggo,
         mapContainer,
         men,
         menpic,
+        menu,
         message1,
         noAccount,
+        number1,
         onboardin1,
         onboardin2,
         onboardin3,
@@ -651,8 +929,11 @@ class $AssetsImagesGen {
         onboardin5,
         onboardin6,
         onboardingArrow,
+        onbordingscreen,
         orange,
         orange2,
+        oval,
+        oval2,
         pakhicircle,
         passwordSucess,
         penkalam,
@@ -667,27 +948,40 @@ class $AssetsImagesGen {
         picture6,
         picture7,
         picture9,
+        plen,
         pluse,
         profile3,
         profileimage2,
         profilek,
+        ratingselected,
+        rectangle,
+        regular,
+        roket,
+        roket1,
         sadwbox,
+        samo,
         searc5,
+        searchselected,
+        selecthome,
         shooping,
         shop,
         shoppingCart,
         signeture2,
         signetureone,
+        signin,
         sobjigreen,
         sss3,
         star,
+        start,
         sweets,
         talaplass,
         tara,
         tea,
         time1,
+        towcolor,
         treegren,
         treegren1,
+        unselectHome,
         vagitablegreen,
         vegetables1,
         vegetables11

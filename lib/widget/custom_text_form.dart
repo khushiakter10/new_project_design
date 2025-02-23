@@ -17,6 +17,8 @@ class CustomTextFormWiget extends StatelessWidget {
   final Color? suffixIconColor;
   final Color? prefixIconColor;
   final bool? readOnly;
+  final Color? fillColor;
+  final bool? filled;
   const CustomTextFormWiget({
     super.key,
     this.textStyle,
@@ -34,11 +36,14 @@ class CustomTextFormWiget extends StatelessWidget {
     this.suffixIconColor,
     this.prefixIconColor,
     this.readOnly,
+    this.fillColor, this.filled,
   });
   @override
   Widget build(BuildContext context) {
     return TextFormField(
       decoration: InputDecoration(
+        fillColor: fillColor,
+        filled: true,
         prefixIcon: prefixIcon,
         prefixIconColor: prefixIconColor,
         hintText: hintTxt,

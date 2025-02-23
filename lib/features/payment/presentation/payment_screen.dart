@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:khusi/helpers/navigation_service.dart';
 import '../../../common_widget/custom_button.dart';
 import '../../../constants/text_font_style.dart';
 import '../../../gen/assets.gen.dart';
@@ -21,9 +22,14 @@ class _PaymentState extends State<Payment> {
       appBar: AppBar(
         elevation: 0,
         backgroundColor: AppColors.cF6F5F5,
-        leading: Padding(
-          padding: EdgeInsets.all(19.0),
-          child: Image.asset(Assets.icons.a22.path, height: 20.h),
+        leading: GestureDetector(
+          onTap: (){
+            NavigationService.goBack;
+          },
+          child: Padding(
+            padding: EdgeInsets.all(19.0),
+            child: Image.asset(Assets.icons.a22.path, height: 20.h),
+          ),
         ),
       ),
       body: SingleChildScrollView(
